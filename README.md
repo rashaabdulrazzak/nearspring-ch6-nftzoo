@@ -1,34 +1,23 @@
 # NEARspring-nftchallenge
 
-This challenge is the third challenge in NEAR spring.
-This is a 2-step challenge for minting your first NFT on NEAR and creating a frontend for it. It can be as simple or complex as you like!
+This challenge is the sixth challenge in NEAR spring.
 
-Step 1.
-Deploy an NFT smart contract on the testnet. Mint an NFT.
-
-Step 2.
-Build a frontend to connect with the NFT smart contract you deployed (GitHub pages is the most simple option). The frontend should allow a user to log in with NEAR and mint an NFT to their own wallet.
+The war in Ukraine has affected each Ukrainian and a lot of people around the globe. At the moment the war is being actively waged and is in the hot phase, but when Ukraine wins, a new stage will begin - the stage of restoration of our country.
+Ukrainian zoos are in severe need of help now and will be in need after the war ends. There are no visitors in the zoos, which results in no budgeting.
+You need to create an NFT project which will aid in attracting funds that will be allocated to buy food for animals or help zoos restore their work after the war is over.
 
 
 ## The solution:
+Build a dApp to gether donations for the animals. Whenever a user mint the nft related to the animal he will make donation with 3 NEAR to that animal  
 
-Step1:
-
-**The link for the smart contract repository**  is **[here](https://github.com/rashaabdulrazzak/nftChallenge)** 
-
-I used the NFT smart contract from the tutorial [NFT Zero to Hero
-](https://docs.near.org/docs/tutorials/contracts/nfts/introduction#:~:text=In%20this%20Zero%20to%20Hero,contract%20that%20supports%20every%20extension.) to deploy it on to my account `nftchallenge.rashaabdulrazzak.testnet` and Mint an NFT after uploading it to [NFT storage website](https://nft.storage/).
-
-
-Step2:
-
-The front-end done using create-react-app and near-api-js to connect to near.
-the user will be asked to login in order to mint his NFT. and after he logged in he can mint his NFT and see it in his wallet.
-
-The app is delpoyed on github pages. See it [here](https://rashaabdulrazzak.github.io/nearspring-nftchallenge/)
-
+* The app is delpoyed on github pages . See it [here](https://rashaabdulrazzak.github.io/nearspring-ch6-nftzoo/)
+* The video explain the app on loom. Watch it[here](https://www.loom.com/share/8c7b12e8bbfd473da14d5129d9a8cd73)
+* The contract is deployed to the account name `zoohelp.testnet` 
+* The contract code is taken from the [NFT Zero to Hero](https://docs.near.org/docs/tutorials/contracts/nfts/introduction#:~:text=In%20this%20Zero%20to%20Hero,contract%20that%20supports%20every%20extension)
+* The frontend built over the prevuios chalenge(mint nft challeng) as they are related 
 ### Screenshot of the app:
-![image](https://user-images.githubusercontent.com/11816618/164643665-36b13f45-b299-48b7-b80f-261d0db3c4b8.png)
+![image](https://user-images.githubusercontent.com/11816618/166150190-6f5f0001-8553-4ced-9904-28d748b98db7.png)
+
 
 ### How to use:
 
