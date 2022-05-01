@@ -13,7 +13,7 @@ Build a dApp to gether donations for the animals. Whenever a user mint the nft r
 * The app is delpoyed on github pages . See it [here](https://rashaabdulrazzak.github.io/nearspring-ch6-nftzoo/)
 * The video explain the app on loom. Watch it[here](https://www.loom.com/share/8c7b12e8bbfd473da14d5129d9a8cd73)
 * The contract is deployed to the account name `zoohelp.testnet` 
-* The contract code is taken from the [NFT Zero to Hero](https://docs.near.org/docs/tutorials/contracts/nfts/introduction#:~:text=In%20this%20Zero%20to%20Hero,contract%20that%20supports%20every%20extension)
+* The contract code is taken from the [NFT Zero to Hero](https://docs.near.org/docs/tutorials/contracts/nfts/introduction#:~:text=In%20this%20Zero%20to%20Hero,contract%20that%20supports%20every%20extension). and it is located on [this repo](https://github.com/rashaabdulrazzak/nearspring-ch6-contract)
 * The frontend built over the prevuios chalenge(mint nft challeng) as they are related 
 ### Screenshot of the app:
 ![image](https://user-images.githubusercontent.com/11816618/166150190-6f5f0001-8553-4ced-9904-28d748b98db7.png)
