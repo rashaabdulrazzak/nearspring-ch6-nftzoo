@@ -1,16 +1,16 @@
 import BN from "bn.js";
 const gas = new BN("300000000000000");
-const attachedDeposit = new BN("100000000000000000000000");
-
-export function nft_mint(name) {
+const attachedDeposit = new BN("3000000000000000000000000");
+let randNum = Math.floor(Math.random() * 100000000 + 1);
+export function nft_mint(name, title, description, media) {
+  alert(title);
   return window.contract.nft_mint(
     {
-      token_id: `${name}-nft-challenge`,
+      token_id: `${name}-${randNum}-nft-Zoo`,
       metadata: {
-        title: "Near Spring NFT Challenge",
-        description: "NFT Mint",
-        media:
-          "https://bafybeieuocyw4bjys3qgiyvd6sxze5xngfpxttgexcj26iwe7pbicfmjw4.ipfs.dweb.link/",
+        title,
+        description,
+        media,
       },
       receiver_id: name,
     },

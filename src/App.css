@@ -7,11 +7,11 @@
 
 body {
   font-family: "Source Sans Pro", sans-serif;
-  color: white;
-  font-weight: 300;
-  background: #d13965;
-  width: 100%;
-  height: 100%;
+    color: #001d3b;
+    font-weight: 300;
+    background: #ffe7d6;
+    width: 100%;
+    height: 100%;
 }
 
 .container {
@@ -25,10 +25,10 @@ body {
   font-weight: 200;
 }
 button {  
-  background-color: white;
+  background-color: #03436f;
   border: 0;
   padding: 10px 15px;
-  color: #333;
+  color: #fff;
   border-radius: 3px;
   width: 250px;
   font-size: 18px;
@@ -41,6 +41,6 @@ button:disabled{
   cursor:not-allowed;
 }
 a{
-  color: #fff;
+  color: #001d3b;
   font-size: medium;
 }
