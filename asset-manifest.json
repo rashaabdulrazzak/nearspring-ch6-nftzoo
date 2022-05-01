@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nearspring-ch6-nftzoo/static/css/main.9caa91f4.chunk.css",
+    "main.js": "/nearspring-ch6-nftzoo/static/js/main.ae14e84c.chunk.js",
+    "main.js.map": "/nearspring-ch6-nftzoo/static/js/main.ae14e84c.chunk.js.map",
+    "runtime-main.js": "/nearspring-ch6-nftzoo/static/js/runtime-main.66dc0904.js",
+    "runtime-main.js.map": "/nearspring-ch6-nftzoo/static/js/runtime-main.66dc0904.js.map",
+    "static/js/2.85ea7b20.chunk.js": "/nearspring-ch6-nftzoo/static/js/2.85ea7b20.chunk.js",
+    "static/js/2.85ea7b20.chunk.js.map": "/nearspring-ch6-nftzoo/static/js/2.85ea7b20.chunk.js.map",
+    "static/js/3.fd3dd56b.chunk.js": "/nearspring-ch6-nftzoo/static/js/3.fd3dd56b.chunk.js",
+    "static/js/3.fd3dd56b.chunk.js.map": "/nearspring-ch6-nftzoo/static/js/3.fd3dd56b.chunk.js.map",
+    "index.html": "/nearspring-ch6-nftzoo/index.html",
+    "static/css/main.9caa91f4.chunk.css.map": "/nearspring-ch6-nftzoo/static/css/main.9caa91f4.chunk.css.map",
+    "static/js/2.85ea7b20.chunk.js.LICENSE.txt": "/nearspring-ch6-nftzoo/static/js/2.85ea7b20.chunk.js.LICENSE.txt",
+    "static/media/5508687.c2576df9.jpg": "/nearspring-ch6-nftzoo/static/media/5508687.c2576df9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66dc0904.js",
+    "static/js/2.85ea7b20.chunk.js",
+    "static/css/main.9caa91f4.chunk.css",
+    "static/js/main.ae14e84c.chunk.js"
+  ]
+}
